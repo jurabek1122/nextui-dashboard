@@ -46,7 +46,7 @@ export const Accounts = () => {
             </Crumb>
          </Breadcrumbs>
 
-         <Text h3>All Accounts</Text>
+         <Text h3>All Accounts1</Text>
          <Flex
             css={{gap: '$8'}}
             align={'center'}
